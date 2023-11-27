@@ -1,4 +1,4 @@
-<b>npm install -D tailwindcss npx tailwindcss init</b>
+<b>npm install -D tailwindcss npx tailwindcss init</b><br>
 <b>npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch</b>
 
 # Tailwind-CSS-Responsive-Cards-4-2-1![Screenshot 2023-11-27 at 08-36-21 Responsive Header](https://github.com/JavaScriptOstad/Tailwind-CSS-Responsive-Cards-4-2-1/assets/73139993/6ca225e0-eecf-44cc-bb96-4fe4c8878d8c)
